@@ -1,0 +1,9 @@
+.footer {
+    height: 8vh;
+    display: flex;
+    align-items: center;
+  }
+  .copyright {
+    color: #787878;
+    text-align: center;
+  }

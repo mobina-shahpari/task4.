@@ -1,0 +1,22 @@
+.main {
+    height: 80vh;
+  }
+  .cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+  }
+  .card {
+    background-color: #d3c4c4;
+    width: 350px;
+    border-radius: 0.8rem;
+    padding: 1rem;
+    margin-top: 2rem;
+  }
+  .card .card_title {
+    margin-bottom: 0.5rem;
+  }
+  .card .card_text {
+    color: #665454;
+    font-size: 1.3rem;
+  }
